@@ -13,8 +13,7 @@
     count is: {{ state.count }}
   </button>
   <p>
-    Edit
-    <code>components/HelloWorld.vue</code> to test hot module replacement.
+    The source was updated, built, and deployed to gh-pages!
   </p>
 </template>
 
